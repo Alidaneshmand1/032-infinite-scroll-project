@@ -1,0 +1,70 @@
+[
+    {
+        "title": "Learning JavaScript from Scratch",
+        "description": "A practical guide to learning JavaScript fundamentals and building interactive web applications."
+    },
+    {
+        "title": "Modern Web Development with JavaScript",
+        "description": "Learn modern JavaScript techniques for creating fast and interactive web applications."
+    },
+    {
+        "title": "Building REST APIs with PHP",
+        "description": "Create practical REST APIs with PHP and connect them to frontend applications."
+    },
+    {
+        "title": "Mastering HTML and CSS",
+        "description": "Learn the essential HTML and CSS skills needed to build responsive websites."
+    },
+    {
+        "title": "JavaScript DOM Programming",
+        "description": "Understand how to select, modify, create, and remove elements using the JavaScript DOM API."
+    },
+    {
+        "title": "Advanced JavaScript Functions",
+        "description": "Explore callbacks, closures, higher-order functions, and advanced function patterns."
+    },
+    {
+        "title": "Understanding JavaScript Promises",
+        "description": "Learn how promises work and how to handle asynchronous operations in JavaScript."
+    },
+    {
+        "title": "Async and Await in JavaScript",
+        "description": "Build cleaner asynchronous code using async functions and the await syntax."
+    },
+    {
+        "title": "Working with the Fetch API",
+        "description": "Learn how to request data from servers and work with responses using the Fetch API."
+    },
+    {
+        "title": "JavaScript HTTP Requests",
+        "description": "Understand HTTP requests, responses, headers, methods, and status codes in JavaScript."
+    },
+    {
+        "title": "Building Websites with PHP",
+        "description": "Learn PHP fundamentals and create dynamic server-side web pages."
+    },
+    {
+        "title": "PHP and MySQL Database Programming",
+        "description": "Connect PHP applications to MySQL databases and perform common database operations."
+    },
+    {
+        "title": "Modern CSS Layouts",
+        "description": "Learn Flexbox, Grid, positioning, and responsive layout techniques."
+    },
+    {
+        "title": "Responsive Web Design",
+        "description": "Build websites that adapt smoothly to phones, tablets, laptops, and desktop screens."
+    },
+    {
+        "title": "Introduction to JSON",
+        "description": "Learn how JSON data is structured, parsed, generated, and exchanged between applications."
+    },
+    {
+        "title": "Working with JSON in JavaScript",
+        "description": "Learn how to convert JSON strings into JavaScript objects and serialize objects as JSON."
+    },
+    {
+        "title": "JavaScript Arrays and Objects",
+        "description": "Understand arrays, objects, methods, properties, and common data manipulation techniques."
+    }
+]
